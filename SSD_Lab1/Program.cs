@@ -11,6 +11,10 @@ namespace SSD_Lab1
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO");
+            DateTime time = DateTime.Now;
+            string format = "MMM ddd d HH:mm yyyy";
+            Console.WriteLine(time.ToString(format));
+
         }
     }
 }
