@@ -6,3 +6,6 @@ C:\Users\micha\Source\Repos\MykhailoKvasnii\ssd2223kisk11kvasnii5\SSD_Lab1\obj\D
 C:\Users\micha\Source\Repos\MykhailoKvasnii\ssd2223kisk11kvasnii5\SSD_Lab1\obj\Debug\SSD_Lab1.csproj.CoreCompileInputs.cache
 C:\Users\micha\Source\Repos\MykhailoKvasnii\ssd2223kisk11kvasnii5\SSD_Lab1\obj\Debug\SSD_Lab1.exe
 C:\Users\micha\Source\Repos\MykhailoKvasnii\ssd2223kisk11kvasnii5\SSD_Lab1\obj\Debug\SSD_Lab1.pdb
+C:\Users\micha\Source\Repos\MykhailoKvasnii\ssd2223kisk11kvasnii5\SSD_Lab1\bin\Debug\INIFileParser.dll
+C:\Users\micha\Source\Repos\MykhailoKvasnii\ssd2223kisk11kvasnii5\SSD_Lab1\bin\Debug\INIFileParser.xml
+C:\Users\micha\Source\Repos\MykhailoKvasnii\ssd2223kisk11kvasnii5\SSD_Lab1\obj\Debug\SSD_Lab1.csproj.CopyComplete
