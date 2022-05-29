@@ -16,5 +16,6 @@ namespace SSD_Lab1
             Console.WriteLine(time.ToString(format));
 
         }
+
     }
 }
