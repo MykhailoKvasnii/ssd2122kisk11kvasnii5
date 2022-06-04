@@ -91,6 +91,7 @@
   <ItemGroup>
     <Compile Include="Calculation.cs" />
     <Compile Include="FileReader.cs" />
+    <Compile Include="FileWriter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
