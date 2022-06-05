@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SSD_Lab1"
+    "\\SSD_Lab1",
+    "\\UnitTestProject"
   ],
-  "SelectedNode": "\\SSD_Lab1\\FileWriter.cs",
+  "SelectedNode": "\\UnitTestProject\\UnitTestsFileReader.cs",
   "PreviewInSolutionExplorer": false
 }

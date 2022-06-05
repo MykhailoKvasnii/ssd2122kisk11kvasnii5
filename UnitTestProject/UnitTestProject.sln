@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.2.32519.379
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSD_Lab1", "SSD_Lab1.csproj", "{4694D607-C94B-451A-8B15-71EFB7973804}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "..\UnitTestProject\UnitTestProject.csproj", "{CF6DA77B-453B-43FC-8A36-D44E018B5007}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject.csproj", "{CF6DA77B-453B-43FC-8A36-D44E018B5007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4694D607-C94B-451A-8B15-71EFB7973804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4694D607-C94B-451A-8B15-71EFB7973804}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4694D607-C94B-451A-8B15-71EFB7973804}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4694D607-C94B-451A-8B15-71EFB7973804}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CF6DA77B-453B-43FC-8A36-D44E018B5007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CF6DA77B-453B-43FC-8A36-D44E018B5007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF6DA77B-453B-43FC-8A36-D44E018B5007}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {87611E6F-4FBB-474D-82EA-6A4261B7B9D2}
+		SolutionGuid = {AEDAD4A9-CE2B-4029-A3CC-A1F506A2578D}
 	EndGlobalSection
 EndGlobal
