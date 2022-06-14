@@ -1,4 +1,4 @@
-# ssd2223kisk11kvasnii5  
+# ssd2122kisk11kvasnii5  
 Lab work for subject "Software system desing"  
 
 For current project you need to install next packages:  
